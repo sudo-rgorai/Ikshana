@@ -156,26 +156,26 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Services"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "With a dedicated team of trained professionals, we strive to create new engineering marvels by providing novel and innovative solutions. "
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-anchor"
+      title = "Our Vision"
+      description = "As our name suggests, we are a group of visionary people. Dreaming and achieving is our primary goal. Ikshana has worked over major projects to make somebody’s dream come true. We believe in deliverance rather than bragging, and that’s why our competitors only keep completing banners, and we, buildings."
+      icon = "icon-eye"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-layers2"
+      title = "Preeminent Technology"
+      description = "Ikshana uses highly advanced Technology to analyze, design and build a project. As the time is passing, the technology is improving and we at Ikshana, are ready to learn those advancements to deliver, not a complete project but a flawless masterpiece. Deep Learning and Artificial Intelligence are some topics which we actually use in our project and not only in the description."
+      icon = "icon-gear"
     [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
+      title = "Conservationist"
+      description = "Our nature is definitely ours. And its protection and growth lies in our hands. We at Ikshana don’t build the technology which protects the environment, rather, we build the technology through which the environment does not require any protection. Even we admire the beauty of fresh trees on a sunny winter morning! "
+      icon = "icon-leaf"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
-      icon = "icon-monitor"
+      title = "Erudite Team"
+      description = "Our team consists of top Civil Engineers from IITs to serve their country. We all know how brainy these people are! Our team works restlessly(which they are used to), to analyze each and every bit of a design so that you don’t feel a sudden jerk when you are driving while listening to your favorite song!   " 
+      icon = "icon-people"
 
   # About section
   [params.about]
