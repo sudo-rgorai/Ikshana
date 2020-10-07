@@ -53,7 +53,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Planning is having a vision for future and or foresight. A well planned project can be executed within schedule, within budget, as per the scope, in desired quality and to clients satisfaction. So as civil engineers, we always plan first."
     url = "#"
     button = "Get In Touch"
     icon = "icon-bulb"
@@ -61,18 +61,18 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "We employ novel methods in the design of buildings and architectural design, based, mainly, on the technological development in construction materials used and the reliance on environmental-friendly and stronger materials. Thereby, delivering a truly refined product."
     url = "#"
     button = "Click Me"
     icon = "icon-wrench"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Build"
+    description = "Our motto is 'Building Dreams'. We understand your needs, design it to the required specifications and build it to your dreams so that your faith in us stands strong like our structures. Of the many things that we build, trust is most important."
     url = "#"
     button = "Why us?"
-    icon = "icon-rocket"
+    icon = "icon-building"
     img = "img_10.jpg"
 
   [params.intro.video]
