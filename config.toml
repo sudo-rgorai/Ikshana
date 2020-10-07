@@ -138,7 +138,7 @@ theme = "hugo-elate-theme"
       alt = "Person1"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Ikshana has provided excellent service and quality work Construction Results has provided during the past year.Completing the work  on time, and within budget,is an extremely important component in development of commercial buildings. Ikshana has played an important role in this process. We will highly recommend  for the type of work you performed for us.&rdquo;"
+      quote = "&ldquo;Ikshana has provided excellent service and quality during the past year. Completing the work  on time, and within budget,is an extremely important component in development of commercial buildings. Ikshana has played an important role in this process. We will highly recommend  for the type of work you performed for us.&rdquo;"
       person = 'Dr. Bimal Patel, Director, HCP Design, Planning &amp; Management Pvt. Ltd'
       img = "user.jpg"
       alt = "Person2"
