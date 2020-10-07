@@ -345,7 +345,7 @@ theme = "hugo-elate-theme"
   # Contact section
   [params.contact]
     enable = true
-    map = true
+    map = false
     form = true
     title = "Get in touch"
     description = "We'd love to hear from you. Whether you have a question about our projects, pricing, practices or anything else our team is ready to answer all your questions."
@@ -353,7 +353,7 @@ theme = "hugo-elate-theme"
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "Indian Institute of Technology Kharagpur, Kharagpur - 721302, West Bengal, India"],
-        ["icon-phone", "(123) 465-6789"],
+        ["icon-phone", "+91 9104423822"],
         ["icon-envelope", "ikshana@email.com"],
         ["icon-globe", '<a href="http://ikshana.netlify.app/" target="_blank">http://ikshana.netlify.app/</a>']
       ]
@@ -367,7 +367,7 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = '&copy; Ikshana. All Rights Reserved. <br>Created with <a href="http://gohugo.io/" target="_blank">hugo</a>.'
     links = [
         ["icon-twitter", "#twitter"],
         ["icon-facebook", "#facebook"],
