@@ -348,14 +348,14 @@ theme = "hugo-elate-theme"
     map = true
     form = true
     title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "We'd love to hear from you. Whether you have a question about our projects, pricing, practices or anything else our team is ready to answer all your questions."
 
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
+        ["icon-home", "Indian Institute of Technology Kharagpur, Kharagpur - 721302, West Bengal, India"],
         ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-envelope", "ikshana@email.com"],
+        ["icon-globe", '<a href="http://ikshana.netlify.app/" target="_blank">http://ikshana.netlify.app/</a>']
       ]
 
     name = "Name"
