@@ -45,7 +45,7 @@ theme = "hugo-elate-theme"
   [params.hero]
     title = "Ikshana"
     subtitle = "Building Dreams"
-    logo = "logo-white.png"
+    logo = "logo-white-final.png"
 
   # Intro section
   # Available icons: http://simplelineicons.com/
