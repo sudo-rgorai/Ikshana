@@ -93,37 +93,37 @@ theme = "hugo-elate-theme"
       img = "project.png"
       alt = "Image2"
       title = "Project 1"
-      subtitle = "Branding"
+      subtitle = ""
 
     [[params.work.row]]
       img = "project2.png"
       alt = "Image2"
       title = "Project 2"
-      subtitle = "Design"
+      subtitle = ""
 
     [[params.work.row]]
       img = "project3.png"
       alt = "Image3"
       title = "Project 3"
-      subtitle = "Design"
+      subtitle = ""
 
     [[params.work.row]]
       img = "project4.png"
       alt = "Image4"
       title = "Project 4"
-      subtitle = "Design"
+      subtitle = ""
 
     [[params.work.row]]
       img = "project5.png"
       alt = "Image5"
       title = "Project 5"
-      subtitle = "Design"
+      subtitle = ""
 
     [[params.work.row]]
       img = "project6.png"
       alt = "Image6"
       title = "Project 6"
-      subtitle = "Design"
+      subtitle = ""
 
   # Testimonials section
   [params.testimonials]
