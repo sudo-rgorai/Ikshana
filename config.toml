@@ -86,41 +86,41 @@ theme = "hugo-elate-theme"
   [params.work]
     enable = true
     title = "Work"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+    description = "In the past, our projects have been taken from a wide range of specializations, dealing with varied domains across civil engineering."
+    footertext = ''
 
     [[params.work.row]]
-      img = "work_1.jpg"
+      img = "project.png"
       alt = "Image2"
       title = "Project 1"
       subtitle = "Branding"
 
     [[params.work.row]]
-      img = "work_2.jpg"
+      img = "project2.png"
       alt = "Image2"
       title = "Project 2"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_3.jpg"
+      img = "project3.png"
       alt = "Image3"
       title = "Project 3"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_4.jpg"
+      img = "project4.png"
       alt = "Image4"
       title = "Project 4"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_5.jpg"
+      img = "project5.png"
       alt = "Image5"
       title = "Project 5"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_6.jpg"
+      img = "project6.png"
       alt = "Image6"
       title = "Project 6"
       subtitle = "Design"
