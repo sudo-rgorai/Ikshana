@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Elate theme"
+title = "Ikshana"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -18,7 +18,7 @@ theme = "hugo-elate-theme"
 
   # Navigation
   [params.navigation]
-    brand = "Elate"
+    brand = "Ikshana"
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"
@@ -43,8 +43,9 @@ theme = "hugo-elate-theme"
 
   # Hero section
   [params.hero]
-    title = "Do something you love."
-    subtitle = 'Another free HTML5 bootstrap template by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
+    title = "Ikshana"
+    subtitle = "Building Dreams"
+    logo = "logo.png"
 
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -75,7 +76,7 @@ theme = "hugo-elate-theme"
     img = "img_10.jpg"
 
   [params.intro.video]
-    enable = true
+    enable = false
     title = "Watch the video"
     icon = "icon-play2"
     url = "https://vimeo.com/channels/staffpicks/93951774"
@@ -287,4 +288,3 @@ theme = "hugo-elate-theme"
         ["icon-facebook", "#facebook"],
         ["icon-youtube", "#youtube"]
       ] 
-      
