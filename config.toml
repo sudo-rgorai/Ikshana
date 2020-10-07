@@ -184,40 +184,124 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person1.jpg"
+      name = "Mihir Kumar Choudhury"
+      position = "Chief Executive Officer"
+      description = "Mihir Kumar Choudhury is serving as the current Chief Executive Officer of Ikshana. He supritends the smooth functioning of all departments. Standing very true to his position, he acts like an epoxy, filling all the gaps and strengthening the entire team together! He has a deep knowledge of the markets and industry of the company"
+      img = "Mihir.jpg"
       alt = "Person1"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-linkedin", "http://www.linkedin.com/in/mihirkc"],
+        ["icon-facebook", "https://www.facebook.com/mihirkumar.choudhury.3"],
+        ["icon-envelope", "mailto: mihirkumarchoudhury@gmail.com"]
       ]
 
     [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
+      name = "Rahul Gorai"
+      position = "Chief Technological Officer"
+      description = "As a Chief Technological Officer, Rahul Gorai is responsible for developing the company’s strategy for using technological resources. He ensures that technologies are used efficiently, profitably and securely. He along with his colleague evaluates and implements new systems and infrastructure to ensure functionality and efficiency."
+      img = "Rahul_Gorai.jpg"
       alt = "Person2"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/rahul-gorai-86a7041a2/"],
+        ["icon-facebook", "https://www.facebook.com/rahul.gorai.526/"],
+        ["icon-github", "https://github.com/sudo-rgorai"]
       ]
 
     [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
+      name = "Samarth Saxena"
+      position = "Chief Technological Officer"
+      description = "Samarth Saxena, our Chief Technology Officer is responsible for the oversight of intellectual property and have backgrounds in the industry. He looks at how to implement new technologies within the company to its success. He along with his collegue is responsible for the development of the website and also looks after data security."
+      img = "Samarth_Saxena.jpg"
       alt = "Person3"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-linkedin", "https://www.linkedin.com/in/samarth-saxena-265260128/"],
+        ["icon-facebook", "https://www.facebook.com/samarth.saxena.906/"],
+        ["icon-envelope", "mailto: samsaxena835@gmail.com"]
+      ]   
+      
+    [[params.about.item]]
+      name = "Hritwick Manna"
+      position = "Chief Financial Officer"
+      description = "As chief financial officer (CFO), Hritwick Manna is responsible for all of the company’s financial functions including accounting, audit, treasury, corporate finance and investor relations. He also leads the AI team. He drives the company’s financial planning and performs risk management by analyzing the organization’s liabilities and investments."
+      img = "Hritwick_Manna.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-linkedin", "https://www.linkedin.com/in/hritwickmanna"],
+        ["icon-facebook", "https://www.facebook.com/hritwickm"],
+        ["icon-envelope", "mailto: hritwick.manna24@gmail.com"]
+      ]
+
+    [[params.about.item]]
+      name = "Ayan Akhtar"
+      position = "Chief Financial Officer"
+      description = "Ayan Akhtar is serving as the Chief Financial Officer. He is responsible for all of the company's financial function. He decides on investment strategies by considering cash and liquidity risks and controls and evaluate the organization’s fundraising plans and capital structure. He also ensures cash flow is appropriate for the organization’s operations."
+      img = "Ayan_Akhtar.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-linkedin", "#"],
         ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]      
+        ["icon-envelope", "#"]
+      ]   
+
+    [[params.about.item]]
+      name = "Mahendra Bera"
+      position = "Director, Research & Development"
+      description = "Mahendra Bera, Director of Research and Development,is a new rising face in the corporate world. He is known to be a visionary personality with optimistic ideals who believes in dreams and turn them into reality. He has always worked for the holistic development of Ikshana and has proved his excellence on several occasions taking the company to new heights."
+      img = "Mahendra_Bera.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-linkedin", "https://www.linkedin.com/in/mahendra-bera-a12b711b8"],
+        ["icon-facebook", "http://www.facebook.com/mahendra.bera.52438"],
+        ["icon-envelope", "mailto: mahendrabera507@gmail.com "]
+      ]   
+
+    [[params.about.item]]
+      name = "Tuhin Subhra De"
+      position = "Director, Research & Development"
+      description = "Tuhin Subhra De, dynamically focuses on areas of research and development which will prove beneficial for company and keep it in good market conditions and in competition with other companies. He is currently expertising the field of Machine Learning to bring laurels to the company. "
+      img = "Tuhin_Subhra_De.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-linkedin", "https://in.linkedin.com/in/tuhin-subhra-de-2a83721b5"],
+        ["icon-facebook", "https://www.facebook.com/tuhinsubhrade.1107"],
+        ["icon-envelope", "mailto: tuhinsubhrade069@gmail.com "]
+      ]   
+
+    [[params.about.item]]
+      name = "Punith Srikant"
+      position = "Director, Marketing"
+      description = "Titty Punith Srikanth, our Director of Marketing is responsible for our company's Marketing and communication strategies,  as well as overall branding and image. He prepares annual marketing plans and sets the marketing budget and analyses the market and competitors."
+      img = "Punith_Srikant.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-linkedin", "https://www.linkedin.com/in/titty-srikanth-31978b1b7"],
+        ["icon-facebook", "https://www.facebook.com/tpunith.srikanth"],
+        ["icon-envelope", "mailto: tittysrikanth2002@gmail.com "]
+      ]   
+
+    [[params.about.item]]
+      name = "Paul Manohar"
+      position = "Director, Legal Affairs"
+      description = "As director of legal affairs, Paul Manohar provides legal representation to the Organization, supports the work of the organization and manages the full range of legal strategies and responsibilities. He also develops and manages the legal department budget"
+      img = "user.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-linkedin", "#"],
+        ["icon-facebook", "#"],
+        ["icon-envelope", "#"]
+      ]   
+
+    [[params.about.item]]
+      name = "Aman Saxena"
+      position = "Director, Legal Affairs"
+      description = "Aman Saxena, as Director of legal affairs, sets the strategy and goals for the Legal team in alignment with the larger organizational goals. He leads complex legal projects that span legal, business, and functional boundaries and provides counsel to staff in all departments on a variety of complex issues."
+      img = "user.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-linkedin", "#"],
+        ["icon-facebook", "#"],
+        ["icon-envelope", "#"]
+      ]           
 
   # Counters section
   [params.counters]
