@@ -129,23 +129,23 @@ theme = "hugo-elate-theme"
   [params.testimonials]
     enable = true
     title = "Testimonials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "This is what our customers had to say about us."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      quote = "&ldquo;Our experience with Ikshana was marked by high integrity, good quality, and high value work. Thank you for the amazing job on our new clinic.We couldn't have asked for a better team to produce a high quality product you have done.&rdquo;"
+      person = 'Dr. Keyur Parikh, Chairman, CIMS Hospital Pvt. Ltd'
       img = "person1.jpg"
       alt = "Person1"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      quote = "&ldquo;Ikshana has provided excellent service and quality work Construction Results has provided during the past year.Completing the work  on time, and within budget,is an extremely important component in development of commercial buildings. Ikshana has played an important role in this process. We will highly recommend  for the type of work you performed for us.&rdquo;"
+      person = 'Dr. Bimal Patel, Director, HCP Design, Planning &amp; Management Pvt. Ltd'
       img = "person2.jpg"
       alt = "Person2"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
-      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      quote = "&ldquo;IKSHANA Kolkata, has executed the construction work of our Institute Kolkata. IKSHANA is professionally managed organization and their performance has been good in terms of quality, safety and timely completion of the project.&rdquo;"
+      person = 'Dr. Parth Kumar Tewari, Director, ICE Kolkata'
       img = "person3.jpg"
       alt = "Person3"
 
