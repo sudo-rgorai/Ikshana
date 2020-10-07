@@ -311,7 +311,7 @@ theme = "hugo-elate-theme"
 
     [[params.counters.item]]
       description = "Years of trust"
-      icon = "icon-code"
+      icon = "icon-calendar"
       from = 0
       to = 15
       interval = 50
@@ -328,7 +328,7 @@ theme = "hugo-elate-theme"
 
     [[params.counters.item]]
       description = "Partners"
-      icon = "icon-cup"
+      icon = "icon-globe"
       from = 0
       to = 36
       interval = 50
