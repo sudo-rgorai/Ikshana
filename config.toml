@@ -134,19 +134,19 @@ theme = "hugo-elate-theme"
     [[params.testimonials.item]]
       quote = "&ldquo;Our experience with Ikshana was marked by high integrity, good quality, and high value work. Thank you for the amazing job on our new clinic.We couldn't have asked for a better team to produce a high quality product you have done.&rdquo;"
       person = 'Dr. Keyur Parikh, Chairman, CIMS Hospital Pvt. Ltd'
-      img = "person1.jpg"
+      img = "user.jpg"
       alt = "Person1"
 
     [[params.testimonials.item]]
       quote = "&ldquo;Ikshana has provided excellent service and quality work Construction Results has provided during the past year.Completing the work  on time, and within budget,is an extremely important component in development of commercial buildings. Ikshana has played an important role in this process. We will highly recommend  for the type of work you performed for us.&rdquo;"
       person = 'Dr. Bimal Patel, Director, HCP Design, Planning &amp; Management Pvt. Ltd'
-      img = "person2.jpg"
+      img = "user.jpg"
       alt = "Person2"
 
     [[params.testimonials.item]]
       quote = "&ldquo;IKSHANA Kolkata, has executed the construction work of our Institute Kolkata. IKSHANA is professionally managed organization and their performance has been good in terms of quality, safety and timely completion of the project.&rdquo;"
       person = 'Dr. Parth Kumar Tewari, Director, ICE Kolkata'
-      img = "person3.jpg"
+      img = "user.jpg"
       alt = "Person3"
 
 
@@ -181,7 +181,7 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Meet our team: A group of enthusiastic individuals working in extraordinary projects."
 
     [[params.about.item]]
       name = "Mihir Kumar Choudhury"
@@ -310,6 +310,14 @@ theme = "hugo-elate-theme"
     background = "full_image_1.jpg"
 
     [[params.counters.item]]
+      description = "Years of trust"
+      icon = "icon-code"
+      from = 0
+      to = 15
+      interval = 50
+      speed = 5000
+
+    [[params.counters.item]]
       description = "Finished projects"
       icon = "icon-briefcase"
       from = 0
@@ -317,19 +325,12 @@ theme = "hugo-elate-theme"
       interval = 50
       speed = 5000
 
-    [[params.counters.item]]
-      description = "Lines of code"
-      icon = "icon-code"
-      from = 0
-      to = 2343409
-      interval = 50
-      speed = 5000
 
     [[params.counters.item]]
-      description = "Cups of coffee"
+      description = "Partners"
       icon = "icon-cup"
       from = 0
-      to = 1302
+      to = 36
       interval = 50
       speed = 5000
 
@@ -337,7 +338,7 @@ theme = "hugo-elate-theme"
       description = "Happy clients"
       icon = "icon-people"
       from = 0
-      to = 52
+      to = 178
       interval = 50
       speed = 5000
 
