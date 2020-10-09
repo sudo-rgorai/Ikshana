@@ -92,37 +92,37 @@ theme = "hugo-elate-theme"
     [[params.work.row]]
       img = "project.png"
       alt = "Image2"
-      title = "Project 1"
+      title = "IIT Kharagpur Railover Bridge"
       subtitle = ""
 
     [[params.work.row]]
       img = "project2.png"
       alt = "Image2"
-      title = "Project 2"
+      title = "Nalanda Greater Track"
       subtitle = ""
 
     [[params.work.row]]
       img = "project3.png"
       alt = "Image3"
-      title = "Project 3"
+      title = "Hijli Railway Track"
       subtitle = ""
 
     [[params.work.row]]
       img = "project4.png"
       alt = "Image4"
-      title = "Project 4"
+      title = "Prembazar multi-purpose dam"
       subtitle = ""
 
     [[params.work.row]]
       img = "project5.png"
       alt = "Image5"
-      title = "Project 5"
+      title = "Water Section Boring Well, IIT Kharagpur"
       subtitle = ""
 
     [[params.work.row]]
       img = "project6.png"
       alt = "Image6"
-      title = "Project 6"
+      title = "Lakeside Levee, IIT Kharagpur"
       subtitle = ""
 
   # Testimonials section
@@ -197,7 +197,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Rahul Gorai"
-      position = "Chief Technological Officer"
+      position = "Chief Technology Officer"
       description = "As a Chief Technological Officer, Rahul Gorai is responsible for developing the company’s strategy for using technological resources. He ensures that technologies are used efficiently, profitably and securely. He along with his colleague evaluates and implements new systems and infrastructure to ensure functionality and efficiency."
       img = "Rahul_Gorai.jpg"
       alt = "Person2"
@@ -209,7 +209,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Samarth Saxena"
-      position = "Chief Technological Officer"
+      position = "Chief Technology Officer"
       description = "Samarth Saxena, our Chief Technology Officer is responsible for the oversight of intellectual property and have backgrounds in the industry. He looks at how to implement new technologies within the company to its success. He along with his collegue is responsible for the development of the website and also looks after data security."
       img = "Samarth_Saxena.jpg"
       alt = "Person3"
@@ -268,7 +268,7 @@ theme = "hugo-elate-theme"
       ]   
 
     [[params.about.item]]
-      name = "Punith Srikant"
+      name = "Punith Srikanth"
       position = "Director, Marketing"
       description = "Titty Punith Srikanth, our Director of Marketing is responsible for our company's Marketing and communication strategies,  as well as overall branding and image. He prepares annual marketing plans and sets the marketing budget and analyses the market and competitors."
       img = "Punith_Srikant.jpg"
@@ -293,7 +293,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Aman Saxena"
-      position = "Director, Legal Affairs"
+      position = "Director, Marketing"
       description = "Aman Saxena, as Director of legal affairs, sets the strategy and goals for the Legal team in alignment with the larger organizational goals. He leads complex legal projects that span legal, business, and functional boundaries and provides counsel to staff in all departments on a variety of complex issues."
       img = "user.jpg"
       alt = "Person3"
