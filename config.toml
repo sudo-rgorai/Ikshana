@@ -338,7 +338,7 @@ theme = "hugo-elate-theme"
       description = "Happy clients"
       icon = "icon-people"
       from = 0
-      to = 178
+      to = 878
       interval = 50
       speed = 5000
 
@@ -353,7 +353,7 @@ theme = "hugo-elate-theme"
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "Indian Institute of Technology Kharagpur, Kharagpur - 721302, West Bengal, India"],
-        ["icon-phone", "+91 9104423822"],
+        ["icon-phone", "+91 7550912254"],
         ["icon-envelope", "ikshana@email.com"],
         ["icon-globe", '<a href="http://ikshana.netlify.app/" target="_blank">http://ikshana.netlify.app/</a>']
       ]
