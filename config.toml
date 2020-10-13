@@ -93,37 +93,37 @@ theme = "hugo-elate-theme"
       img = "project.png"
       alt = "Image2"
       title = "IIT Kharagpur Railover Bridge"
-      subtitle = ""
+      subtitle = "The Railway Over Bridge at Kharagpur Junction is of great importance for the people of Kharagpur. The main purpose for the construction of the rail over bridge was to reduce the traveling time of road traffic and avoiding accidents during passing of trains. The construction of the bridge began in March, 2015 and was delivered efficiently by November, 2017 at a cost of ₹1.2B (16.34M $). The bridge today serves its most basic purpose of fulfilling more than 10,000 vehicles per day."
 
     [[params.work.row]]
       img = "project2.png"
       alt = "Image2"
       title = "Nalanda Greater Track"
-      subtitle = ""
+      subtitle = "Kharagpur serves a major junction for road vehicles to navigate to major cities of India, namely, Mumbai and Kolkata. Ikshana has had the privilege of joining hands with Larsen and Toubro for the construction of the largest rotary in India at Kharagpur by-pass for controlling heavy traffic. The project is today used by more than 1Lac vehicles on daily purpose, most of which are heavy vehicles like trucks, buses, etc. The project costed ₹3B ($40.8M) and was delivered in 2 Years(2017-2019)."
 
     [[params.work.row]]
       img = "project3.png"
       alt = "Image3"
       title = "Hijli Railway Track"
-      subtitle = ""
+      subtitle = "The project involved the construction of 120km of new standard-gauge Single Track Electrified Railway Line between Hijli and Kolkata. The total cost of the Project was ₹1.5B ($20.4M). The immediate impact of the project was promoting economic development in the region by significantly increasing employment. In the operation stage we paid special attention to the environment and we proudly declare that no wildlife reserve was disrupted during or after the construction of the project."
 
     [[params.work.row]]
       img = "project4.png"
       alt = "Image4"
-      title = "Prembazar multi-purpose dam"
-      subtitle = ""
+      title = "Tehri multi-purpose dam"
+      subtitle = "Tehri Multi-Purpose Dam has been built over river Bhagirathi in near Tehri, Uttrakhand. The dam serves many purposes such as controlling flow of water, canaling sufficient fresh water for majorly irrigation purposes in parts of Uttarakhand and Uttar Pradesh and for producing hydro-electricity. The dam, in collaboration with Hindustan Construction Co. Ltd. built at an extreme location was completed in 5 Years and at a cost of ₹7.4B ($100.8M). Today, the project is helping more than 5 crore Indians in their daily needs."
 
     [[params.work.row]]
       img = "project5.png"
       alt = "Image5"
-      title = "Water Section Boring Well, IIT Kharagpur"
-      subtitle = ""
+      title = "Water Section Bore Well, IIT Kharagpur"
+      subtitle = "Our 1st major project was the Water Section Bore Well, at IIT Kharagpur. IIT Kharagpur, being home to almost 25,000 people, has enough water requirements. The bore well constructed was dug 45m below the ground level. A strong support and proper design with state of the art machinery was provided to counter the normal forces through the soil. The cost for the project was ₹25 crores ($3.4M) and was completed in a span of 8 months. The borewell today provides 1Lac Litres of water to the campus essentials everyday. "
 
     [[params.work.row]]
       img = "project6.png"
       alt = "Image6"
       title = "Lakeside Levee, IIT Kharagpur"
-      subtitle = ""
+      subtitle = "Lakeside Levee was Ikshana’s one of the major projects in IIT Kharagpur. Ikshana has taken pride in providing its service for developing beautiful Lakeside Structures inside the campus for 3 lakes. A Levee gives a firm support to the banks of any water body, abling it for more developments around it. The idea consisted of developing a presentable Lakeside along with strength. The project costed ₹1.2B ($16.34M) and was completed in a span of 2 Years. The hence developed Lakeside is a famous spot for students to hang-out. "
 
   # Testimonials section
   [params.testimonials]
