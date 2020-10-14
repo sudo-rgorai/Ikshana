@@ -18,7 +18,7 @@ theme = "hugo-elate-theme"
 
   # Navigation
   [params.navigation]
-    brand = "Ikshana"
+    brand = "IKSHANA"
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"
@@ -371,5 +371,5 @@ theme = "hugo-elate-theme"
     links = [
         ["icon-twitter", "#twitter"],
         ["icon-facebook", "#facebook"],
-        ["icon-youtube", "#youtube"]
+        ["icon-linkedin", "#linkedin"]
       ] 
