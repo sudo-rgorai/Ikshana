@@ -238,9 +238,9 @@ theme = "hugo-elate-theme"
       img = "Ayan_Akhtar.jpg"
       alt = "Person3"
       social = [
-        ["icon-linkedin", "#"],
-        ["icon-facebook", "#"],
-        ["icon-envelope", "#"]
+        ["icon-linkedin", "http://www.linkedin.com/in/ayan-akhtar-87b8191b9"],
+        ["icon-facebook", "http://facebook.com/being.ayan.54"],
+        ["icon-envelope", "rehanayan785@gmail.com"]
       ]   
 
     [[params.about.item]]
