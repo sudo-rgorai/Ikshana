@@ -283,7 +283,7 @@ theme = "hugo-elate-theme"
       name = "Paul Manohar"
       position = "Director, Legal Affairs"
       description = "As director of legal affairs, Paul Manohar provides legal representation to the Organization, supports the work of the organization and manages the full range of legal strategies and responsibilities. He also develops and manages the legal department budget"
-      img = "user.jpg"
+      img = "Pusuluri_Paul_Manohar.jpg"
       alt = "Person3"
       social = [
         ["icon-linkedin", "#"],
