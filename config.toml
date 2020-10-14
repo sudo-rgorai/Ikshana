@@ -54,7 +54,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Plan"
     description = "Planning is having a vision for future and or foresight. A well planned project can be executed within schedule, within budget, as per the scope, in desired quality and to clients satisfaction. So as civil engineers, we always plan first."
-    url = "#"
+    url = "contact"
     button = "Get In Touch"
     icon = "icon-bulb"
     img = "img_7.jpg"
@@ -62,7 +62,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Develop"
     description = "We employ novel methods in the design of buildings and architectural design, based, mainly, on the technological development in construction materials used and the reliance on environmental-friendly and stronger materials. Thereby, delivering a truly refined product."
-    url = "#"
+    url = "services"
     button = "Click Me"
     icon = "icon-wrench"
     img = "img_8.jpg"
@@ -70,7 +70,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Build"
     description = "Our motto is 'Building Dreams'. We understand your needs, design it to the required specifications and build it to your dreams so that your faith in us stands strong like our structures. Of the many things that we build, trust is most important."
-    url = "#"
+    url = "testimonials"
     button = "Why us?"
     icon = "icon-building"
     img = "img_10.jpg"
@@ -354,7 +354,7 @@ theme = "hugo-elate-theme"
     details = [
         ["icon-home", "Indian Institute of Technology Kharagpur, Kharagpur - 721302, West Bengal, India"],
         ["icon-phone", "+91 7550912254"],
-        ["icon-envelope", "ikshana@email.com"],
+        ["icon-envelope", "ikshana004@gmail.com"],
         ["icon-globe", '<a href="http://ikshana.netlify.app/" target="_blank">http://ikshana.netlify.app/</a>']
       ]
 
