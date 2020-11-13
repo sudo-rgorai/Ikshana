@@ -198,7 +198,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Rahul Gorai"
       position = "Chief Technology Officer"
-      description = "As a Chief Technological Officer, Rahul Gorai is responsible for developing the company’s strategy for using technological resources. He ensures that technologies are used efficiently, profitably and securely. He along with his colleague evaluates and implements new systems and infrastructure to ensure functionality and efficiency."
+      description = "As a Chief Technological Officer, Rahul Gorai is responsible for developing the company’s strategy for using technological resources. He is mainly responsible for the mangement of company's websites, development of app for our latest project and the algorithm behind it. He ensures that technologies are used efficiently and profitably."
       img = "Rahul_Gorai.jpg"
       alt = "Person2"
       social = [
@@ -294,7 +294,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Aman Saxena"
       position = "Director, Marketing"
-      description = "Aman Saxena, as Director of legal affairs, sets the strategy and goals for the Legal team in alignment with the larger organizational goals. He leads complex legal projects that span legal, business, and functional boundaries and provides counsel to staff in all departments on a variety of complex issues."
+      description = "Aman Saxena, our Director of Marketing is responsible for our company’s marketing strategies. He has a very good grip among his clients. The market and demand analysis provided by him is of great importance to the welfare of the company. He leads complex legal projects that span legal, business, and functional boundaries and provides counsel to staff in all departments on a variety of complex issues."
       img = "user.jpg"
       alt = "Person3"
       social = [
