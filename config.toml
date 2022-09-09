@@ -178,22 +178,24 @@ theme = "hugo-elate-theme"
       icon = "icon-people"
 
   # About section
+
+  
   [params.about]
     enable = true
     title = "About"
     description = "Meet our team: A group of enthusiastic individuals working in extraordinary projects."
 
     [[params.about.item]]
-      name = "Mihir Kumar Choudhury"
+      name = "Mahendra Bera"
       position = "Chief Executive Officer"
-      description = "Mihir Kumar Choudhury is serving as the current Chief Executive Officer of Ikshana. He supritends the smooth functioning of all departments. Standing very true to his position, he acts like an epoxy, filling all the gaps and strengthening the entire team together! He has a deep knowledge of the markets and industry of the company"
-      img = "Mihir.jpg"
-      alt = "Person1"
+      description = "Mahendra Bera is serving as the current Chief Executive Officer of Ikshana. He supritends the smooth functioning of all departments. Standing very true to his position, he acts like an epoxy, filling all the gaps and strengthening the entire team together! He has a deep knowledge of the markets and industry of the company."
+      img = "Mahendra_Bera.jpg"
+      alt = "Person3"
       social = [
-        ["icon-linkedin", "http://www.linkedin.com/in/mihirkc"],
-        ["icon-facebook", "https://www.facebook.com/mihirkumar.choudhury.3"],
-        ["icon-envelope", "mailto: mihirkumarchoudhury@gmail.com"]
-      ]
+        ["icon-linkedin", "https://www.linkedin.com/in/mahendra-bera-a12b711b8"],
+        ["icon-facebook", "http://www.facebook.com/mahendra.bera.52438"],
+        ["icon-envelope", "mailto: mahendrabera507@gmail.com "]
+      ]   
 
     [[params.about.item]]
       name = "Rahul Gorai"
@@ -232,6 +234,18 @@ theme = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
+      name = "Mihir Kumar Choudhury"
+      position = "Director, Research & Development"
+      description = "Mihir Kumar Choudhury, Director of Research and Development,is a new rising face in the corporate world. He is known to be a visionary personality with optimistic ideals who believes in dreams and turn them into reality. He has always worked for the holistic development of Ikshana and has proved his excellence on several occasions taking the company to new heights."
+      img = "Mihir.jpg"
+      alt = "Person1"
+      social = [
+        ["icon-linkedin", "http://www.linkedin.com/in/mihirkc"],
+        ["icon-facebook", "https://www.facebook.com/mihirkumar.choudhury.3"],
+        ["icon-envelope", "mailto: mihirkumarchoudhury@gmail.com"]
+      ]
+
+    [[params.about.item]]
       name = "Ayan Akhtar"
       position = "Chief Financial Officer"
       description = "Ayan Akhtar is serving as the Chief Financial Officer. He is responsible for all of the company's financial function. He decides on investment strategies by considering cash and liquidity risks and controls and evaluate the organization’s fundraising plans and capital structure. He also ensures cash flow is appropriate for the organization’s operations."
@@ -241,18 +255,6 @@ theme = "hugo-elate-theme"
         ["icon-linkedin", "http://www.linkedin.com/in/ayan-akhtar-87b8191b9"],
         ["icon-facebook", "http://facebook.com/being.ayan.54"],
         ["icon-envelope", "rehanayan785@gmail.com"]
-      ]   
-
-    [[params.about.item]]
-      name = "Mahendra Bera"
-      position = "Director, Research & Development"
-      description = "Mahendra Bera, Director of Research and Development,is a new rising face in the corporate world. He is known to be a visionary personality with optimistic ideals who believes in dreams and turn them into reality. He has always worked for the holistic development of Ikshana and has proved his excellence on several occasions taking the company to new heights."
-      img = "Mahendra_Bera.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-linkedin", "https://www.linkedin.com/in/mahendra-bera-a12b711b8"],
-        ["icon-facebook", "http://www.facebook.com/mahendra.bera.52438"],
-        ["icon-envelope", "mailto: mahendrabera507@gmail.com "]
       ]   
 
     [[params.about.item]]
