@@ -188,7 +188,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Mahendra Bera"
       position = "Chief Executive Officer"
-      description = "Mahendra Bera is serving as the current Chief Executive Officer of Ikshana. He supritends the smooth functioning of all departments. Standing very true to his position, he acts like an epoxy, filling all the gaps and strengthening the entire team together! He has a deep knowledge of the markets and industry of the company."
+      description = "Mahendra Bera is serving as the current Chief Executive Officer of Ikshana. He supritends the smooth functioning of all departments. Standing very true to his position, he acts like an epoxy, filling all the gaps and strengthening the entire team together! He has a deep rooted knowledge of the overall markets and the general industry of the company."
       img = "Mahendra_Bera.jpg"
       alt = "Person3"
       social = [
@@ -260,7 +260,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Tuhin Subhra De"
       position = "Director, Research & Development"
-      description = "Tuhin Subhra De, dynamically focuses on areas of research and development which will prove beneficial for company and keep it in good market conditions and in competition with other companies. He is currently expertising the field of Machine Learning to bring laurels to the company. "
+      description = "Tuhin Subhra De, dynamically focuses on areas of research and development which will prove beneficial for company and keep it in good market conditions and in competition with other companies."
       img = "Tuhin_Subhra_De.jpg"
       alt = "Person3"
       social = [
@@ -272,7 +272,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Punith Srikanth"
       position = "Director, Marketing"
-      description = "Titty Punith Srikanth, our Director of Marketing is responsible for our company's Marketing and communication strategies,  as well as overall branding and image. He prepares annual marketing plans and sets the marketing budget and analyses the market and competitors."
+      description = "Titty Punith Srikanth, our Director of Marketing is responsible for our company's Marketing and communication strategies,  as well as overall branding and image. He prepares annual marketing plans and sets the overall marketing budget"
       img = "Punith_Srikant.jpg"
       alt = "Person3"
       social = [
