@@ -236,7 +236,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Mihir Kumar Choudhury"
       position = "Director, Research & Development"
-      description = "Mihir Kumar Choudhury, Director of Research and Development,is a new rising face in the corporate world. He is known to be a visionary personality with optimistic ideals who believes in dreams and turn them into reality. He has always worked for the holistic development of Ikshana and has proved his excellence on several occasions taking the company to new heights."
+      description = "Mihir Kumar Choudhury, Director of Research and Development,is a new rising face in the corporate world. He is known to be a visionary personality with optimistic ideals who believes in dreams and turn them into reality. He has always worked for the holistic development of Ikshana"
       img = "Mihir.jpg"
       alt = "Person1"
       social = [
